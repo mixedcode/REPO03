@@ -18,3 +18,4 @@ sap.ui.define([
 //BUGFIX 111
 //HOTFIX22
 //comment for testing 07.06.2018
+//comment from chrneff 08.06.2018 with branch development
